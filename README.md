@@ -91,10 +91,11 @@ Expected output flow:
 
 ## 🧱 Example GUI Layout
 
-![screen shot](./assets/screenshot.png)
+![screen shot](assets/screenshot.png)
 
 
 ---
 **Author:** Shantiya  
 **License:** MIT  
+
 **GitHub:** [github.com/ShantiyaShamushaki](https://github.com/ShantiyaShamushaki)
