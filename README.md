@@ -91,7 +91,7 @@ Expected output flow:
 
 ## 🧱 Example GUI Layout
 
-![screen shot](assets/screenshot.png)
+![screen shot](assets/Screenshot.png)
 
 
 ---
@@ -99,3 +99,4 @@ Expected output flow:
 **License:** MIT  
 
 **GitHub:** [github.com/ShantiyaShamushaki](https://github.com/ShantiyaShamushaki)
+
